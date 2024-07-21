@@ -23,7 +23,7 @@ body::before {
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url('/AWS_Cloud_Club_Simple_Frontend/dist/assets/cloud_related/background1.svg');
+    background-image: url('/dist/assets/cloud_related/background1.svg');
     background-repeat:repeat;
     background-size: contain;
     background-position: center;
